@@ -10,4 +10,8 @@
 * doctesting in Python
 * Computing shortest distance
 * Computing an MST by Kruskal's algorithm
-* 
+ 
+# Day 3: Bellman-Ford algorithm
+
+* theory
+* coding sprint to implement it 
